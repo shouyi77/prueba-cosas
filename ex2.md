@@ -1,4 +1,4 @@
-#Installation
+# Installation
 Follow these steps to prepare the project:
 1. Create a virtual environment:
    - macOS/Linux: `python -m venv .venv`
