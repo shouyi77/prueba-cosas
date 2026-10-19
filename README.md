@@ -112,6 +112,6 @@ if __name__ == "__main__":
 No siempre están soportadas.
 
  Hora   | Lunes | Martes | Miércoles
----|-------|--------|-----
+---|-------:|:--------:|:-----
 9:00 | Tal | Tal | Cual
 11:00| Esto | Lo otro | Más allá
